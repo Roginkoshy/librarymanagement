@@ -10,16 +10,9 @@ body {
 }
 
 .a1{
-			display:block;
-			float:left;
 			vertical-align: center;
 }
-.nodec
-{
-	text-decoration: none;
-	list-style-type: none;
-	color:white;
-}
+
 
 li a{
     display:block;
@@ -106,21 +99,4 @@ button:hover{
 	background: #f2dede;
 	border-radius: 5px;
 	text-align: left;
-}
-
-/*.register h2{
-	margin-top: 100px;
-	background-color: blue;
-	width: 100px;
-    border-radius: 2px 2px 2px 2px;
-	color:white;
-}*/
-
-.register form {
- width:30%;
- margin: 0px auto;
- padding 20px;
- border 1px solid #B0C4DE;
- background:white;
- border-radius:0px 0px 10px 10px;
 }
